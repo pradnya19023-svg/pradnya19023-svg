@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Pradnya 👋
 
-<!--
-**pradnya19023-svg/pradnya19023-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year Engineering Student  
+💻 Learning: Python, JavaScript, SQL  
+🚀 Goal: Work at top tech companies  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python (Basics + OOP)
+- HTML & CSS (Learning)
+- GitHub (Beginner)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🔢 Calculator (Python)
+- 🎲 Number Guessing Game (Coming soon)
+
+## 🌱 Currently Learning
+- Data Structures
+- Web Development
+
+## 📫 Connect with me
+- GitHub: https://github.com/pradnya19023-svg
